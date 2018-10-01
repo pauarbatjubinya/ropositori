@@ -9,7 +9,7 @@ var h = parseInt(prompt("Dona'm un numero"));
 var i = parseInt(prompt("Dona'm un numero"));
 var j = parseInt(prompt("Dona'm un numero"));
 
-var resultat = Math.min(a,b,c,d,e,f,g,h,i,j);
-var resultat = Math.max(a,b,c,d,e,f,g,h,i,j);
+var resultat1 = Math.min(a,b,c,d,e,f,g,h,i,j);
+var resultat2 = Math.max(a,b,c,d,e,f,g,h,i,j);
 
-alert(resultat);
+alert("El minim es : " + resultat1 + " i el maxim es : " + resultat2);
