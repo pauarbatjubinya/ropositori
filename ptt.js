@@ -13,3 +13,4 @@ var resultat1 = Math.min(a,b,c,d,e,f,g,h,i,j);
 var resultat2 = Math.max(a,b,c,d,e,f,g,h,i,j);
 
 alert("El minim es : " + resultat1 + " i el maxim es : " + resultat2);
+//COMENTARI 1
